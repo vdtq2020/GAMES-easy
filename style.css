@@ -89,3 +89,19 @@ body {
 .contact-form button:hover {
   background: #0099cc;
 }
+
+.cookie-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #6a0dad;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  font-size: 14px;
+}
+.cookie-bar a {
+    color: #fff;
+    text-decoration: underline;
+}
